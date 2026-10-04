@@ -79,7 +79,7 @@ CaneScan-XAI/
     └── README.md
 ```
 
-> The paper/ directory contains publication and citation information. An author-accepted manuscript may be added later if permitted by the applicable publication policy.
+> The paper directory contains publication and citation information. An author-accepted manuscript may be added later if permitted by the applicable publication policy.
 
 ---
 
