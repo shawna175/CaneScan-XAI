@@ -79,7 +79,7 @@ CaneScan-XAI/
     └── README.md
 ```
 
-> The `paper/` entry is intended for an author/preprint version that can be shared publicly under the applicable publication policy.
+> The paper/ directory contains publication and citation information. An author-accepted manuscript may be added later if permitted by the applicable publication policy.
 
 ---
 
@@ -183,7 +183,7 @@ The project uses libraries including:
 - Pillow
 - h5py
 - Streamlit
-- pytorch-grad-cam
+-grad-cam
 
 ---
 
@@ -219,7 +219,7 @@ Future work includes:
 
 ## Citation
 
-If you use this work, please cite the conference paper once the final bibliographic record/DOI is available.
+Official IEEE Xplore citation and DOI will be added once the final bibliographic record becomes available.
 
 ```bibtex
 @inproceedings{canescanxai2026,
