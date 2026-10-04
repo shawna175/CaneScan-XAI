@@ -67,22 +67,16 @@ The final CaneScan-XAI ensemble reported **97.20% accuracy, 97.37% precision, 97
 ```text
 CaneScan-XAI/
 ├── README.md
+├── requirements.txt
+├── .gitignore
 ├── notebooks/
 │   ├── 01_baseline_models.ipynb
 │   ├── 02_se_cbam_attention.ipynb
 │   └── 03_ensemble_model.ipynb
 ├── app/
 │   └── app.py
-├── models/
-│   └── README.md
-├── assets/
-│   ├── workflow.png
-│   ├── gradcam_example.png
-│   └── app_demo.png
-├── paper/
-│   └── CaneScan-XAI_Preprint.pdf
-├── requirements.txt
-└── .gitignore
+└── paper/
+    └── README.md
 ```
 
 > The `paper/` entry is intended for an author/preprint version that can be shared publicly under the applicable publication policy.
